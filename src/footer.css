@@ -2,6 +2,7 @@ footer {
     height: 100px;
     width: 100%;
     background: yellowgreen;
+    border: 1px solid green;
 }
 
 .red {
